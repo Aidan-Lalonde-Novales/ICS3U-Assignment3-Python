@@ -4,4 +4,5 @@
 # Created March 2022
 # This file contains constants
 
-EXAMPLE = 1
+DISCOUNT = 0.90
+HST = 1.13
